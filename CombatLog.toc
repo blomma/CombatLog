@@ -1,0 +1,6 @@
+﻿## Title: CombatLog
+## Interface: 30800
+## Notes: Automatically enables Combat Logging when the player enters a instance and is in raid.
+## Author: Fleetfoot
+## Version: 1.0
+CombatLog.lua
